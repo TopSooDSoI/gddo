@@ -1,0 +1,4 @@
+Google.golang.org/appengine/user
+import "google.golang.org/appengine/user"
+func Current(c context.Context) *User
+import "google.golang.org/appengine/user"
